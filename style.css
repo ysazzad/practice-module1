@@ -1,0 +1,37 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    
+}
+
+section{
+    display: flex;
+   
+}
+
+.half-width{
+    width: 50%;
+    padding: 2%;
+   
+    
+}
+.half-width img {
+    width: 60%;
+    padding: 2%;
+}
+.orange-color{
+    background-image: linear-gradient(tomato, orange);
+    color: white;
+    text-decoration: none;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+.orange{
+    color: orangered;
+}
+h1{
+    font-size: 50px;
+}
+section {
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
+}
